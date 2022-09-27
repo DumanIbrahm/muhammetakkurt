@@ -8,7 +8,6 @@ I've been writing and learning code for more than 15 years since I started to hi
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [akkurt.dev](http://akkurt.dev)
-* 🚀  I'm currently working on [Peak Ace AG](http://peakace.agency)
 
 ### Skills
 
